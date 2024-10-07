@@ -52,7 +52,7 @@ To run this project locally:
 ## Screenshots
 
 ### Desktop View:
-![Desktop Screenshot](path_to_your_screenshot)
+![Desktop Screenshot](temp.png)
 
 ## Contributing
 
