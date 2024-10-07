@@ -42,9 +42,9 @@ To run this project locally:
     git clone https://github.com/your-username/temperature-converter.git
     ```
 
-2. Navigate to the project directory:
+2. Demo:
     ```bash
-    cd temperature-converter
+     https://samiralam04.github.io/Temperature-converter/
     ```
 
 3. Open the `index.html` file in your browser to run the application.
